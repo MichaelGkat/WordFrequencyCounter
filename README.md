@@ -5,3 +5,4 @@ Steps to run:
 1. Run main.py
 2. Create a .txt file or change the text in sample.txt
 3. Select the file to read as the one from 2.
+4. Configure settings (ex. case sensitivity)
